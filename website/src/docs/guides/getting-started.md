@@ -1,10 +1,11 @@
----
+toki---
 title: Getting started
 titleTemplate: Guides
 description: Essential information to help you get set up with Mihon.
 ---
 
-<script setup lang="ts">
+<script setup lang="ts">skzix
+  
 import { data as release } from "@theme/data/release.data"
 </script>
 
